@@ -1,3 +1,13 @@
+# DOTS Training Samples for Shattered Devs
+## The goal of this Project
+The goal is for learning and experimenting on how to optimize specific gameplay problematics like CPU Bottleneck.
+This project is forked from the Unity [DOTS-training-samples](https://github.com/Unity-Technologies/DOTS-training-samples) repository.
+
+The community can contribute and learn from our code and don't hesitate to share your knowledge.
+
+You can look the code of some team members on the branchs with starting the name of the member. (For example: Linuxydable-Factory for viewing the code of the "Factory" sample from the member "Linuxydable".)
+
+## How to start
 Under the 'Originals' directory, you'll find small simulations/games implemented in classic (non-DOTS) Unity. Your task is to implement one of these samples in DOTS.
 
 1. Clone this repository.
